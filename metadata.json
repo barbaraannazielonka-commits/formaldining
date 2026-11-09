@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Video & English Vocabulary Studio",
+  "description": "Convert restaurant scene images into cinematic motion video with interactive English vocabulary tours, native audio pronunciation, and student quiz modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
